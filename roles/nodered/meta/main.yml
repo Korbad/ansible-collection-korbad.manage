@@ -1,0 +1,4 @@
+---
+dependencies:
+- korbad.git_repos.nodered_data
+- korbad.containers.nodered

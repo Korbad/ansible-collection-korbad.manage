@@ -1,8 +1,0 @@
----
-- name: Ensure the nodered data git repo exists
-  include_role:
-    name: korbad.git.nodered_data
-  
-- name: Ensure the nodered pod is running
-  include_role:
-    name: korbad.containers.nodered
